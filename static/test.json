@@ -1,0 +1,27 @@
+{
+    "msg": "dgdgfgfd",
+    "data": {
+        "app": [{
+            "app_name": "千炮捕鱼",
+            "term_pnum": [{
+                "num": 1,
+                "name": "男"
+            }, {
+                "num": 1,
+                "name": "女"
+            }],
+            "app_pnum": 2
+        },
+            {
+                "app_name": "疯狂捕鱼",
+                "term_pnum": [{
+                    "num": 1,
+                    "name": "女"
+                }],
+                "app_pnum": 1
+            }],
+        "all_pnum": 3
+    },
+    "ok": true,
+    "status": 600
+}
